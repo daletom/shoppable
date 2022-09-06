@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shoppable Video</title>
+    <script src="https://kit.fontawesome.com/49d729584d.js" crossorigin="anonymous"></script>
+    <script type="module" src="./index.js"></script>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <main>
+      <h1>Shoppable Video</h1>
+      <div class="container video-player">
+        <ix-video controls source="https://tom.imgix.video/shoppable_video_1.mp4"></ix-video>
+        <div id="productsContainer" class="hidden">
+          <button id="productsDrawer"><i class="fa-solid fa-bag-shopping"></i></button>
+          <div id="productsList"></div>
+        </div>
+      </div>
+      <div class="container">
+        <button id="updateProducts">UPDATE PRODUCTS LIST</button>
+        <textarea id="products">{}</textarea>
+      </div>
+      </div>
+
+    </main>
+  </body>
+
+</html>
