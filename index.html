@@ -8,6 +8,7 @@
     <title>Shoppable Video</title>
     <script src="https://kit.fontawesome.com/49d729584d.js" crossorigin="anonymous"></script>
     <script type="module" src="./index.js"></script>
+    <script defer src="https://static.imgix.net/ix-video/@latest-v1/umd/ix-video.js"></script>
     <link rel="stylesheet" href="./style.css">
   </head>
   <body>
@@ -23,6 +24,9 @@
       <div class="container">
         <button id="updateProducts">UPDATE PRODUCTS LIST</button>
         <textarea id="products">{}</textarea>
+      </div>
+      <div class="ix-embed-video">
+        <ix-video source="https://tom.imgix.video/shoppable_video_1.mp4?ixembed=1662491347198&fm=hls" controls></ix-video>
       </div>
       </div>
 

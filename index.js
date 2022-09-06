@@ -1,4 +1,4 @@
-import { IxVideo } from 'https://static.imgix.net/ix-video/@latest-v1/umd/ix-video.js'
+//import { IxVideo } from 'https://static.imgix.net/ix-video/@latest-v1/umd/ix-video.js'
 import starterProducts from './products.js'
 
 console.log('SHOPPABLE VIDEO!')
