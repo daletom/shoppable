@@ -2,17 +2,17 @@ const products = [
     {
       name: "Apple AirPods Max",
       price: "$479",
-      imageUrl: "https://www.bhphotovideo.com/cdn-cgi/image/format=auto,fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/apple_mgyj3am_a_airpods_max_silver_1607506546_1610234.jpg"
+      imageUrl: "https://ix-shop.imgix.net/appleairpodsmax.png?auto=format,enhance&w=800"
     },
     {
-      name: "Apple Airpods Pro",
-      price: "$249",
-      imageUrl: "https://gmp.imgix.net/images/apple-test-products/airpods.jpeg"
+      name: "Seiko SPB 213",
+      price: "$1,200",
+      imageUrl: "https://ix-shop.imgix.net/seikospb213.png?auto=format,enhance&w=800"
     },
     {
       name: "Blender Bottle",
       price: "$10.50",
-      imageUrl: "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71WdSgXrfbL._AC_SY879_.jpg"
+      imageUrl: "https://ix-shop.imgix.net/blenderbottle.png?auto=format,enhance&w=800"
     }
   ]
   
