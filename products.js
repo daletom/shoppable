@@ -1,8 +1,8 @@
 const products = [
     {
-      name: "Apple iPhone 13 Pro - Green",
-      price: "$999",
-      imageUrl: "https://gmp.imgix.net/images/apple-test-products/iphone-13-pro-model-select-202207-6-1inch_AV2_GEO_US.jpeg"
+      name: "Apple AirPods Max",
+      price: "$479",
+      imageUrl: "https://www.bhphotovideo.com/cdn-cgi/image/format=auto,fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/apple_mgyj3am_a_airpods_max_silver_1607506546_1610234.jpg"
     },
     {
       name: "Apple Airpods Pro",
@@ -10,19 +10,9 @@ const products = [
       imageUrl: "https://gmp.imgix.net/images/apple-test-products/airpods.jpeg"
     },
     {
-      name: "Apple TV 4K",
-      price: "$179",
-      imageUrl: "https://gmp.imgix.net/images/apple-test-products/apple_tv_4k_remote__c4hmy02k6o6e_large_2x.jpg"
-    },
-    {
-      name: "Apple Macbook Air w/ M1 Chip",
-      price: "$999",
-      imageUrl: "https://gmp.imgix.net/images/apple-test-products/macbook-air-space-gray-select-201810.jpeg"
-    },
-    {
-      name: "Apple Watch Series 7",
-      price: "$399",
-      imageUrl: "https://gmp.imgix.net/images/apple-test-products/MN533ref_VW_34FR%2Bwatch-45-alum-midnight-nc-7s_VW_34FR_WF_CO.jpeg"
+      name: "Blender Bottle",
+      price: "$10.50",
+      imageUrl: "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71WdSgXrfbL._AC_SY879_.jpg"
     }
   ]
   
